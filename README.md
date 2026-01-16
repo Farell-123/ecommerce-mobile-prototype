@@ -28,9 +28,6 @@ fluide, moderne et orientée conversion.
 ![Produit](assets/product_detail.png)
 
 ### Panier
-![Panier](assets/cart.png)
-
-### Paiement
 ![Paiement](assets/payment.png)
 
 ### Confirmation
