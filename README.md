@@ -28,10 +28,10 @@ fluide, moderne et orientée conversion.
 ![Produit](assets/product_detail.png)
 
 ### Panier
-![Paiement](assets/payement.jpg)
+![Paiement](assets/payement.png)
 
 ### Confirmation
-![Confirmation](assets/confirmation.jpg)
+![Confirmation](assets/confirmation.png)
 
 ## 🚀 Évolutions possibles
 - Développement frontend (React Native / Flutter)
